@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/gittest_0.1</module>
     <module>jobs/process/gittest2_0.1</module>
+    <module>jobs/process/gittest3_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>
